@@ -29,7 +29,8 @@ A regisztrált/bejelentkezett felhasználók újabb recepteket tudnak feltölten
 -Recept: ID, név, kategótia, leírás, komment, értékelés
 -Értékelés: ID, felhasználó, érték, recept
 -Komment: ID, időpont, szöveg, felhasználó, recept
-![](schema.png)
+![](schema![schema](https://github.com/HZAnett/HF/assets/160552334/320fe8d9-a2fe-4eba-afc3-f327c242ebc3)
+.png)
 
 ### Elérhető oldalak és funkciók listája
 
