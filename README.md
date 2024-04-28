@@ -18,21 +18,35 @@ Ebbe a könyvtárba kerül az opcionális **házi feladat** megoldása. Tovább�
 
 ### A feladat rövid bemutatása
 
-...
+    A házi feladatom egy süteményes receptekből álló weboldalt mutat be.
+A kezdőoldal bemutatja az aktuális recepteket és a felhasználóknak lehetőséget nyújt regisztrálni vagy bejelentkezni. Továbbá a kezdőoldal felső részén rangsorolva láthatóak a legnépszerűbb receptek.
+Oldalt megjelenő kategóriák közül lehet választani, hogy milyen fajta süteményeket tartalmaz az oldal, vagy külön keresni is lehet.
+A regisztrált/bejelentkezett felhasználók újabb recepteket tudnak feltölteni, ezen felül értékelhetik egymás receptjeit és komment hozzáfűzésére is van opciójuk.
 
 ### Az adatbázis sémája
 
-...
-
+-Felhasználó: ID, név, email, felhasználónév, jelszó, recept
+-Recept: ID, név, kategótia, leírás, komment, értékelés
+-Értékelés: ID, felhasználó, érték, recept
+-Komment: ID, időpont, szöveg, felhasználó, recept
 ![](schema.png)
 
 ### Elérhető oldalak és funkciók listája
 
-- Oldal 1
-    - Funkció 1
-    - Funkció 2
-    - ...
-- ...
+- Kezdőlap:
+    - Funkciók:
+        -Regiszttrálás/bejelentkezés(külön oldal)
+        -Keresés
+        -Rangsorolás
+        -Recept hozzáadás/törlése
+-Belépés:
+    -Funkciók:
+        -Új profil létrehozása/törlése
+        -Jelszó változtatás      
+- Recept:
+    - Funkciók:
+        -Értékelés
+        -Megjegyzés írása
 
 ## Elkészült házi feladat
 
