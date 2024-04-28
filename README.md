@@ -18,7 +18,7 @@ Ebbe a könyvtárba kerül az opcionális **házi feladat** megoldása. Tovább�
 
 ### A feladat rövid bemutatása
 
-    A házi feladatom egy süteményes receptekből álló weboldalt mutat be.
+A házi feladatom egy süteményes receptekből álló weboldalt mutat be.
 A kezdőoldal bemutatja az aktuális recepteket és a felhasználóknak lehetőséget nyújt regisztrálni vagy bejelentkezni. Továbbá a kezdőoldal felső részén rangsorolva láthatóak a legnépszerűbb receptek.
 Oldalt megjelenő kategóriák közül lehet választani, hogy milyen fajta süteményeket tartalmaz az oldal, vagy külön keresni is lehet.
 A regisztrált/bejelentkezett felhasználók újabb recepteket tudnak feltölteni, ezen felül értékelhetik egymás receptjeit és komment hozzáfűzésére is van opciójuk.
