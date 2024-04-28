@@ -25,28 +25,28 @@ A regisztrált/bejelentkezett felhasználók újabb recepteket tudnak feltölten
 
 ### Az adatbázis sémája
 
--Felhasználó: ID, név, email, felhasználónév, jelszó, recept  
--Recept: ID, név, kategótia, leírás, komment, értékelés  
--Értékelés: ID, felhasználó, érték, recept  
--Komment: ID, időpont, szöveg, felhasználó, recept  
+- Felhasználó: ID, név, email, felhasználónév, jelszó, recept  
+- Recept: ID, név, kategótia, leírás, komment, értékelés  
+- Értékelés: ID, felhasználó, érték, recept  
+- Komment: ID, időpont, szöveg, felhasználó, recept  
 ![schema](https://github.com/HZAnett/HF/assets/160552334/ce40028f-4af6-44d2-8f01-ee89a796f964)
 
 ### Elérhető oldalak és funkciók listája
 
 - Kezdőlap:  
     - Funkciók:  
-        -Regiszttrálás/bejelentkezés(külön oldal)  
-        -Keresés  
-        -Rangsorolás  
-        -Recept hozzáadás/törlése  
--Belépés:  
-    -Funkciók:  
-        -Új profil létrehozása/törlése  
-        -Jelszó változtatás        
+        - Regiszttrálás/bejelentkezés(külön oldal)  
+        - Keresés  
+        - Rangsorolás  
+        - Recept hozzáadás/törlése  
+- Belépés:  
+    - Funkciók:  
+        - Új profil létrehozása/törlése  
+        - Jelszó változtatás        
 - Recept:  
     - Funkciók:  
-        -Értékelés  
-        -Megjegyzés írása  
+        - Értékelés  
+        - Megjegyzés írása  
 
 ## Elkészült házi feladat
 
